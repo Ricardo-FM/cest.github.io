@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row, Container } from "react-bootstrap";
+import AuthlessFeed from '../components/AuthlessFeed';
 
 const Gallery = () => {
   return (
@@ -17,6 +18,7 @@ const Gallery = () => {
       <Row>
           <Col></Col>
           <Col md="10" style={{paddingLeft: "12%", paddingRight: "12%", paddingBottom: "50px"}}>
+              <AuthlessFeed />
           </Col>
           <Col></Col>
       </Row>
