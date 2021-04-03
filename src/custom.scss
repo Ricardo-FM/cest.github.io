@@ -1,0 +1,37 @@
+button {
+    border-radius: 0 !important;
+    width: 175px;
+    height: 55px;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+    letter-spacing: 4pt;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 4pt;
+}
+
+hr {
+    border: none;
+    width: 60pt;
+    color: #333;
+    background-color: #333;
+    margin: 0px;
+}
+
+$bg-color: #000;
+
+body {
+    background-color: $bg-color;
+}
+
+.black-bg {
+    background-color: $bg-color !important;
+}
+
+.nav-a {
+    font-family: 'Cabin', sans-serif;
+}

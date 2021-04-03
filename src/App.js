@@ -1,5 +1,8 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Gallery from './pages/gallery';
+import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
@@ -20,9 +23,14 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-       <Router>
+      //  <Router>
 
-       </Router>
+      //  </Router>
+    <div>
+      <Navigation />
+      <Gallery />
+      <Footer />
+    </div>
   );
 }
 

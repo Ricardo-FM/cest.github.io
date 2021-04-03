@@ -1,0 +1,9 @@
+a.icon, a.icon:hover, a.icon:visited, a.icon:active {
+    color: #ccc;
+    padding-left: 25px;
+}
+
+div.bg {
+    background-color: #000;
+    padding-top: 60px;
+}
