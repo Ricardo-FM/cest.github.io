@@ -25,7 +25,7 @@ npm start
 - The user may navigate through various landing pages.
 - The user is returned a selected group of photos upon viewing the gallery page.
 
-## Functionality
+## Screenshot
 
 ![Gallery](./public/cest-screenshot.png)
 
