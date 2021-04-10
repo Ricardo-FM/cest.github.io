@@ -6,6 +6,9 @@ The purpose of this application is to provide C'est Belle Events a web presence 
 
 ### Installation
 
+## Deployed application
+[https://polar-wave-44598.herokuapp.com/](https://polar-wave-44598.herokuapp.com/)
+
 ## Instructions to run the application locally:
 
 - Run..
